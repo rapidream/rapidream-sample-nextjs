@@ -1,6 +1,6 @@
 # Rapidream + NextJS
 
-This is an boilerplate of [Rapidream](https://rapidream.com) installed into a default [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is an boilerplate example of [Rapidream](https://rapidream.com) installed into a default [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
@@ -15,9 +15,9 @@ npm run rapidream
 Then, in another terminal, start the NextJS development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
+# or
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
